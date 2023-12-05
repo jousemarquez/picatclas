@@ -5,9 +5,9 @@ function createCard(params, type) {
     p.innerHTML = params.category;
     let stars = document.createElement("img");
     if (type === "product") {
-        stars.src = "../img/estrellas.png";
+        stars.src = "./img/estrellas.png";
     } else if (type === "service") {
-        stars.src = "../img/estrellas.png";
+        stars.src = "./img/estrellas.png";
     }
     let newPrice = document.createElement("span");
     newPrice.className = "u-pull-right";
