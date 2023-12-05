@@ -43,7 +43,7 @@ let array = [
     },
     {
         name: "Jessica Rodríguez",
-        job: "AI Researcher",
+        job: "Help Desk Technician",
         description: "Sara's Twin, Jessica, our customer service-oriented Help Desk Technician, brings five years of experience to the team. With a background in technical support, she responds promptly to user inquiries, resolves technical problems, and documents and escalates issues as needed. Jessica's friendly demeanor and technical acumen make her an essential part of our support system.",
         img: "../img/people/jessica.jpg"
     }
